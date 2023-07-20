@@ -1,0 +1,22 @@
+# Python artifacts
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Virtual environments
+venv/
+*.venv
+.env
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Other
+.DS_Store
